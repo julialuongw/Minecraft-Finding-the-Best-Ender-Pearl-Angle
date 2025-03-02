@@ -1,7 +1,3 @@
-# minecraft-ender-pearl-physics-derivations
+# Finding the Best Pearl Angle
 
-Backwards engineering + calculus to prove the best ender pearl angle is -37.9742431640625
-
-A full analysis can be found here: https://github.com/julialuongw/minecraft-ender-pearl-physics-derivations/blob/master/Publication.pdf
-
-Video in the works!
+Deriving position equations for enderpearls + calculus to find the best ender pearl angle: -37.9742431640625. See Publication.pdf for findings! 
